@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /resources/proposal_mons_infinite_state.pdf
